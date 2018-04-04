@@ -1,0 +1,7 @@
+
+Your program should print its output to the console.
+Print the output, properly justified, formatting each paragraph separately.
+Distribute the spaces within a line to make the output be left and right justified.
+In the last line of output, print the total penalty (sum of cubes of
+the number of spaces added in each line).
+For this paragraph, penalty with M=80 is 154, M=72 is 44, M=93 is 161, and, M=132 is 189.
